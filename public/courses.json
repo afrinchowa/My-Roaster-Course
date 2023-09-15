@@ -1,75 +1,75 @@
 [
     {
       "cover": "https://i.ibb.co/J7CgNJJ/Rectangle-2-2.png",
-      "title": "Online Course 1",
-      "description": "A comprehensive online course for beginners.",
-      "price": "$49.99",
-      "credit-hour": 10,
-      "select_button": "Add to Cart"
+      "title": "Introduction to C Programming",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 15000,
+      "credit_hour": 1
+   
     },
     {
       "cover": "https://i.ibb.co/pJzWBMq/Rectangle-2-3.png",
-      "title": "Web Development Masterclass",
-      "description": "Learn web development from scratch to advanced topics.",
-      "price": "$79.99",
-      "credit-hour": 15,
-      "select_button": "Enroll Now"
+      "title": "Introduction to Algorithms",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 25000,
+      "credit_hour": 2
+      
     },
     {
       "cover": "https://i.ibb.co/mB0vXzj/Rectangle-2-4.png",
-      "title": "Digital Marketing Essentials",
-      "description": "Boost your marketing skills with this course.",
-      "price": "$59.99",
-      "credit-hour": 12,
-      "select_button": "Register"
+      "title": "Introduction to C++ for DSA",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 12000,
+      "credit_hour": 10
+     
     },
     {
       "cover": "https://i.ibb.co/BnFTPBX/Rectangle-3.png",
-      "title": "Graphic Design Basics",
-      "description": "Get creative with graphic design fundamentals.",
-      "price": "$34.99",
-      "credit-hour": 8,
-      "select_button": "Join Class"
+      "title": "Basic Data Structures",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 36000,
+      "credit_hour": 5
+    
     },
     {
       "cover": "https://i.ibb.co/jGX7Q74/Rectangle-2.png",
-      "title": "Data Science Fundamentals",
-      "description": "Dive into the world of data science and analytics.",
-      "price": "$69.99",
-      "credit-hour": 14,
-      "select_button": "Enroll Now"
+      "title": "Introduction to OOP Python",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 18000,
+      "credit_hour": 5
+ 
     },
     {
       "cover": "https://i.ibb.co/Wkbsryx/Rectangle-2-5.png",
-      "title": "Photography Workshop",
-      "description": "Capture moments with professional photography tips.",
-      "price": "$49.99",
-      "credit-hour": 10,
-      "select_button": "Sign Up"
+      "title": "Software Engineering",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 26000,
+      "credit_hour": 2
+     
     },
     {
       "cover": "https://i.ibb.co/3CVRKxQ/Rectangle-3-1.png",
-      "title": "Business Strategy Masterclass",
-      "description": "Develop a winning business strategy with expert guidance.",
-      "price": "$89.99",
-      "credit-hour": 18,
-      "select_button": "Get Started"
+      "title": "AWS, Cloud Computing",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 35000,
+      "credit_hour": 5
+     
     },
     {
       "cover": "https://i.ibb.co/dJTLVDv/Rectangle-2-1.png",
-      "title": "Artificial Intelligence Basics",
-      "description": "Explore the fundamentals of AI and machine learning.",
-      "price": "$59.99",
-      "credit-hour": 12,
-      "select_button": "Register Now"
+      "title": "Database (MySQL)",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 19000,
+      "credit_hour": 5
+     
     },
     {
       "cover": "https://i.ibb.co/gFpCr25/Rectangle-2-6.png",
-      "title": "Language Learning Adventure",
-      "description": "Learn a new language and open up new opportunities.",
-      "price": "$39.99",
-      "credit-hour": 9,
-      "select_button": "Enroll Today"
+      "title": "Problem-Solving Part",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": 23000,
+      "credit_hour": 2
+    
     }
   ]
   

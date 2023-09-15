@@ -1,7 +1,25 @@
+body{
+    padding: 100px;
+}
+.container{
+align-items: center;
+}
 .card{
-    width: 250px;
+    width: 280px;
     height: 300px;
-    border: 1px solid black;
-    margin: 20px ;
+    
     border-radius: 10px;
+}
+.card-btn{
+    background: aqua;
+}
+
+.home-container{
+    display: flex;
+}
+.card-container{
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap ;
+    gap: 10px;
 }
